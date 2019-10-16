@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">MetrImp Converter</string>
+    <!-- Main -->
+    <string name="instructionText">Please select the conversion that you want:</string>
+    <string name="metricToImperial"><![CDATA[METRIC → IMPERIAL]]></string>
+    <string name="imperialToMetric"><![CDATA[IMPERIAL → METRIC]]></string>
+    <!--IMButtons-->
+    <string name="selectionTextIM">Select the type of measurement:</string>
+    <string name="lengthIM">Length</string>
+    <string name="volumeIM">Volume</string>
+    <string name="massIM">Mass</string>
+    <string name="tempIM">Temperature</string>
+    <!--LengthsIM-->
+    <string-array name="lengthIM">
+        <item>None</item>
+        <item>Inches to Centimeters</item>
+        <item>Feet to Meters</item>
+        <item>Miles to Kilometers</item>
+    </string-array>
+    <!--LengthsMI-->
+    <string-array name="lengthMI">
+        <item>None</item>
+        <item>Centimeters to Inches</item>
+        <item>Meters to Feet</item>
+        <item>Kilometers to Miles</item>
+    </string-array>
+    <!--VolumeIM-->
+    <string-array name="volumeIM">
+        <item>None</item>
+        <item>Fluid Ounces to Milliliters</item>
+        <item>Pints to Milliliters</item>
+        <item>Pints to Liters</item>
+        <item>Quarts to Liters</item>
+        <item>Gallons to Liters</item>
+    </string-array>
+    <!--VolumeMI-->
+    <string-array name="volumeMI">
+        <item>None</item>
+        <item>Milliliters to Fluid Ounces</item>
+        <item>Milliliters to Pints</item>
+        <item>Liters to Pints</item>
+        <item>Liters to Quarts</item>
+        <item>Liters to Gallons</item>
+    </string-array>
+    <!--MassIM-->
+    <string-array name="massIM">
+        <item>None</item>
+        <item>Ounces to Grams</item>
+        <item>Pounds to Kilograms</item>
+        <item>Stones to Kilograms</item>
+    </string-array>
+    <!--MassMI-->
+    <string-array name="massMI">
+        <item>None</item>
+        <item>Grams to Ounces</item>
+        <item>Kilograms to Pounds</item>
+        <item>Kilograms to Stones</item>
+    </string-array>
+    <!--TempIM-->
+    <string-array name="tempIM">
+        <item>None</item>
+        <item>Fahrenheit to Celsius</item>
+    </string-array>
+    <!--TempMI-->
+    <string-array name="tempMI">
+        <item>None</item>
+        <item>Celsius to Fahrenheit</item>
+    </string-array>
+</resources>
